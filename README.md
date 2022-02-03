@@ -18,3 +18,5 @@ conform, and it's how software synthezisers are controlled even within an entire
 So, essentially, you ask Magenta for some music, and it gives you a sequence based on its own thinking.
 This is a departure from past approaches to generative music in that it relies on much more
 sophisticated thinking that goes beyond a simple algorithm, even one with purposeful randomness.
+
+## Thanks!

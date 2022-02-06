@@ -19,4 +19,7 @@ So, essentially, you ask Magenta for some music, and it gives you a sequence bas
 This is a departure from past approaches to generative music in that it relies on much more
 sophisticated thinking that goes beyond a simple algorithm, even one with purposeful randomness.
 
+## comment by Jeffery Wang(cw3736)
+This website is basically a description of Magenta Studio. Though knowing nothing about machine learning, I still saw the great power of data interacting with another field (musical instrument), which seems to have no direct relation to it. 
+
 ## Thanks!
